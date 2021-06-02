@@ -115,6 +115,7 @@ header p {
     }
     .hero-svg svg {
         top: 590px;
+         display: none;
     }
 }
 
